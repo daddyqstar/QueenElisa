@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wakh0TllWSIxGSBN2Y5IGdnVnZ1QlV39mQMZ1MyBHUWd0TKdVc3kmQxUEUjMFNiFjRGpFdpwd=56449617672',
+  SESSION_ID: 'QUEENELISA;;;==wc3ZjNzI1Nyk2TjxWWSpHU5dzTEZ2doFWNkd3NLhWLH9mWz8GNBdFMQtWbjQlaKpWR0ZkVpwd=33557508772',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hey there😊👋@name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -26,7 +26,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'Qstar',
   OWNER_NUMBER: '27671694465',
-  SUDO: '27671694465',
+  SUDO: '27780575533',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Johannesburg',
@@ -47,7 +47,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
-  ANTI_VIEW_ONES: true,
+  ANTI_VIEW_ONES: false,
   ANTI_DELETE: false,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: false,
